@@ -1,1 +1,10 @@
-dhgfjjs
+githib
+it is cloud platform that follows git priniciplesfor version controling , help in storing the projects
+gitbash-
+GitBash is a command line interfaceused to track changes and sync it to the global repository
+Step 1- 
+Initializing the git local repository--
+git init - used to initialize the git local repository
+Step 2-
+Staging the changes-
+the process of selecting the changes that has to be commited is called as staging.
