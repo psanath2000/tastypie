@@ -1,19 +1,19 @@
-githib
-it is cloud platform that follows git priniciplesfor version controling , help in storing the projects
-gitbash-
+Githib
+It is cloud platform that follows git priniciplesfor version controling , help in storing the projects
+Gitbash-
 GitBash is a command line interfaceused to track changes and sync it to the global repository
 Step 1- 
 Initializing the git local repository--
-git init - used to initialize the git local repository
+Git init - used to initialize the git local repository
 Step 2-
 Staging the changes-
-the process of selecting the changes that has to be commited is called as staging.
+The process of selecting the changes that has to be commited is called as staging.
 Step 3- 
 commit staged changes-
 The process of finalizing and saving the changes to the local repository is called as commiting.
-git commit <filename> -m "comment"
-example-
-git commit <xyz.txt> -m "hello"
+Git commit <filename> -m "comment"
+Example-
+Git commit <xyz.txt> -m "hello"
 
-git commit .  -m "comment"
+Git commit .  -m "comment"
 
